@@ -1,0 +1,1 @@
+Projekt tworzony na potrzeby przedmiotu: Podstawy sztucznej inteligencji
